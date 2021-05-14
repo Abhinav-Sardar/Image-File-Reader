@@ -1,0 +1,16 @@
+
+body {
+    background-color: rgb(128, 67, 189);
+}
+#imgcont{
+    border:1px solid black ; 
+    border-style: dashed;
+    height:300px ; 
+    width:500px ; 
+}
+img{
+    height:100% ; 
+    width:100% ; 
+}
+
+
